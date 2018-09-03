@@ -1,3 +1,4 @@
+<center> <h1>Collection of my work during my master Data Science: Business and Governance at Tilburg University</h1> </center>
 #### Collection of my work during my master Data Science: Business and Governance at Tilburg University
 ##### Credentials
 <ul>
