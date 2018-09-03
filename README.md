@@ -1,8 +1,10 @@
 #### Collection of my work during my master Data Science: Business and Governance at Tilburg University
 ##### Credentials
-###### Stefan Bloemheuvel
-###### Student at Tilburg University
-###### email: s.d.bloemheuvel@tilburguniversity.edu
+<ul>
+  <li>Stefan Bloemheuvel</li>
+  <li>Tilburg University</li>
+  <li>Email: s.d.bloemheuvel@tilburguniversity.edu</li>
+</ul>
 
 ##### Ordered list of my work:
 <ul>
