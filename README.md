@@ -5,7 +5,7 @@ Credentials:
   <li>Tilburg University</li>
   <li>Email: s.d.bloemheuvel@tilburguniversity.edu</li>
 </ul>
-Ordered list of my work:
+Ordered list of my work, ordered from simple to complex:
 <ul>
   <li>Titanic prediction of survival</li>
 </ul>
