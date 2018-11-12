@@ -1,3 +1,9 @@
+## Monte Carlo Simulation
+
+## 1:   Proof in the difference between OLS, Ridge and Lasso regression differ in terms of 
+##      their Bias, Variance and MSE when the correlation between variables increases
+
+## 2:   Proof that Welch test is better than the Student t-test
 
 #clear environment
 rm(list = ls(all = TRUE))
