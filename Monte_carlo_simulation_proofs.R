@@ -111,7 +111,7 @@ RE1LassoOLS;RE1LassoRidge;RE1RidgeOLS;RE2LassoOLS;RE2LassoRidge; RE2RidgeOLS
 
 
 #-------------------------------------------------exercise2------------------------------------------------------------------
-# Change Mean to 0 or 1 to create both results
+# Change Mean to 0 or 1 to create both results for the size and power
 rm(list = ls(all = TRUE))
 
 set.seed(123)
