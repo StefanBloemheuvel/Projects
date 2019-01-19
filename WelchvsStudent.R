@@ -10,7 +10,7 @@ library(MASS)
 install.packages("glmnet")
 library(glmnet)
 
-#----------------------------------------------exercise1----------------------------------------------------------------
+#----------------------------------------------Part 1---------------------------------------------------------------------
 
 #For the four conditions, correlation was set to 0, 0.2, 0.95, 0.999999
 correlation <- 0
@@ -104,7 +104,7 @@ RE2RidgeOLS = MSEr2 / MSE2
 RE1LassoOLS;RE1LassoRidge;RE1RidgeOLS;RE2LassoOLS;RE2LassoRidge; RE2RidgeOLS 
 
 
-#-------------------------------------------------exercise2------------------------------------------------------------------
+#-------------------------------------------------Part 2------------------------------------------------------------------
 # Change Mean to 0 or 1 to create both results
 rm(list = ls(all = TRUE))
 
